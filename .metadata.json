@@ -1,9 +1,5 @@
 [
   {
-    "package": "MAPA",
-    "oncran": true
-  },
-  {
     "package": "nnfor",
     "oncran": true
   },
