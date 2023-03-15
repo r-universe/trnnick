@@ -1,14 +1,14 @@
 [
   {
+    "package": "MAPA",
+    "oncran": true
+  },
+  {
     "package": "nnfor",
     "oncran": true
   },
   {
     "package": "tsutils",
-    "oncran": true
-  },
-  {
-    "package": "MAPA",
     "oncran": true
   }
 ]
