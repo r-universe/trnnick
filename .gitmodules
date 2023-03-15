@@ -13,6 +13,11 @@
 	url = https://github.com/trnnick/nnfor
 	shallow = true
 	registered = true
+[submodule "tsintermittent"]
+	path = tsintermittent
+	url = https://github.com/trnnick/tsintermittent
+	shallow = true
+	registered = true
 [submodule "tsutils"]
 	path = tsutils
 	url = https://github.com/trnnick/tsutils

@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "tsintermittent",
+    "oncran": true
+  },
+  {
     "package": "tsutils",
     "oncran": true
   }
