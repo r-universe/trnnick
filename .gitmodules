@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MAPA"]
 	path = MAPA
 	url = https://github.com/trnnick/mapa
-	shallow = true
-	registered = true
 [submodule "nnfor"]
 	path = nnfor
 	url = https://github.com/trnnick/nnfor
-	shallow = true
-	registered = true
 [submodule "tsintermittent"]
 	path = tsintermittent
 	url = https://github.com/trnnick/tsintermittent
-	shallow = true
-	registered = true
 [submodule "tsutils"]
 	path = tsutils
 	url = https://github.com/trnnick/tsutils
-	shallow = true
-	registered = true
