@@ -7,7 +7,7 @@
 	url = https://github.com/trnnick/mapa
 [submodule "curvir"]
 	path = curvir
-	url = https://github.com/cran/curvir
+	url = https://github.com/trnnick/curvir
 [submodule "nnfor"]
 	path = nnfor
 	url = https://github.com/trnnick/nnfor
